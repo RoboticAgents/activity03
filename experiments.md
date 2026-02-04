@@ -1,5 +1,13 @@
 # Experimental Documentation
 
+## Team Members
+
+- [Team Member 1 Name]
+- [Team Member 2 Name]
+- [Team Member 3 Name] (if applicable)
+
+---
+
 ## Temperature Sensor (TMP36) Experiments
 
 ### Experiment 1: [Experiment Name]

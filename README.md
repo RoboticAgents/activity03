@@ -9,6 +9,9 @@
 
 In this activity, you will wire and experiment with **three types of environmental sensors**: a temperature sensor (TMP36), a soil moisture sensor, and a photoresistor light sensor. You'll document your experiments with each sensor and explore how they respond to different environmental conditions.
 
+**Work in teams of 2-3.**
+
+---
 
 ## Requirements
 
