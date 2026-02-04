@@ -1,7 +1,7 @@
 # Activity 3: Environmental Sensors
 
 **Course:** CS 304 - Robotic Agents  
-**Due Date:** Thursday, February 6th at 11:00 AM
+**Due Date:** Thursday, February 6th at 11:50 AM
 
 ---
 
