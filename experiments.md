@@ -142,6 +142,3 @@ Combine all three sensors to create a "plant health monitor" that:
 ```cpp
 // Your multi-sensor code here (if you completed the challenge)
 ```
-
-**Results:**
-- [What did you accomplish?]

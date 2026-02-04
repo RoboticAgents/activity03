@@ -9,11 +9,8 @@
 
 In this activity, you will wire and experiment with **three types of environmental sensors**: a temperature sensor (TMP36), a soil moisture sensor, and a photoresistor light sensor. You'll document your experiments with each sensor and explore how they respond to different environmental conditions.
 
----
 
 ## Requirements
-
-### What You Must Complete
 
 1. **Wire all three sensors** correctly to Arduino Uno
 2. **Show all sensors working** with Serial Monitor output
@@ -62,7 +59,7 @@ void loop() {
   Serial.print(tempC);
   Serial.println("°C");
   
-  delay(1000);
+  delay(3000);
 }
 ```
 
@@ -97,7 +94,7 @@ void loop() {
 }
 ```
 
-**Note:** Values range from 0-1023. You'll need to determine what ranges indicate wet vs. dry.
+**Note:** Values range from 0-1023. You will need to determine what ranges indicate wet vs. dry.
 
 ---
 
